@@ -63,11 +63,15 @@ const PortFolio = () => {
             />
             <div className="flex items-center justify-center">
               <button className="w-1/2 px-6 py-3 duration-200 hover:scale-105">
+                <a
+                  href="https://riteshivankar.github.io/weather-forcasting-app/"
+                  target="_blank"
+                ></a>
                 Demo
               </button>
               <button className="w-1/2 px-6 py-3 duration-200 hover:scale-105">
                 <a
-                  href="https://github.com/riteshivankar/Weather_Project.git"
+                  href="https://github.com/riteshivankar/weather-forcasting-app.git"
                   target="_blank"
                 >
                   Code
@@ -143,11 +147,15 @@ const PortFolio = () => {
             />
             <div className="flex items-center justify-center">
               <button className="w-1/2 px-6 py-3 duration-200 hover:scale-105">
+                <a
+                  href="https://riteshivankar.github.io/animated_navbar/"
+                  target="_blank"
+                ></a>
                 Demo
               </button>
               <button className="w-1/2 px-6 py-3 duration-200 hover:scale-105">
                 <a
-                  href="https://github.com/riteshivankar/TextUtility.git"
+                  href="https://github.com/riteshivankar/animated_navbar.git"
                   target="_blank"
                 >
                   Code
